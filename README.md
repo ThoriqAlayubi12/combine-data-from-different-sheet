@@ -2,7 +2,8 @@
 
 the script that will help you to combine data excel from different sheet into one sheet
 
-as we know, sometimes we get the task of combining data from many data sheets into one data sheet. the following script can help to complete your work concisely and easily. so, here we go!
+as we know, sometimes we get the task of combining data from many data sheets into one data sheet. the following script can help to complete your work concisely and easily. as usual, I attached the dummy data for your reference and practice. 
+so, here we go!
 
 ## set working directory
 this set up use to lock your data directory
